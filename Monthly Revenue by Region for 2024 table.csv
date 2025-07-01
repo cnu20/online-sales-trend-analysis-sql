@@ -1,0 +1,25 @@
+region,order_month,total_revenue
+Asia,1,3369.67
+Asia,2,4278.68
+Asia,3,2619.60
+Asia,4,3329.60
+Asia,5,1989.54
+Asia,6,1945.38
+Asia,7,2744.36
+Asia,8,2178.62
+Europe,1,2869.89
+Europe,2,3201.90
+Europe,3,5476.91
+Europe,4,2191.33
+Europe,5,2117.12
+Europe,6,1689.38
+Europe,7,1881.87
+Europe,8,1839.66
+"North America",1,8308.76
+"North America",2,3322.79
+"North America",3,4752.73
+"North America",4,6930.76
+"North America",5,4348.83
+"North America",6,3749.79
+"North America",7,2170.85
+"North America",8,3259.83
